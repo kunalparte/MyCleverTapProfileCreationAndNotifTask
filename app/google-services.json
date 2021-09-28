@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393188257094",
+    "project_id": "myclevertaptask",
+    "storage_bucket": "myclevertaptask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393188257094:android:9d10071d1f5419012e4947",
+        "android_client_info": {
+          "package_name": "com.example.myclevertapprofilecreationandnotiftask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393188257094-l8fgfkpm6a7k5m1lmuklmcvrrcr77m1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvcl_7JBXHvyIIaw_U4SOJ9HUA_5lu-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393188257094-l8fgfkpm6a7k5m1lmuklmcvrrcr77m1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
